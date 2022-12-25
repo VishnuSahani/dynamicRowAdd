@@ -1,0 +1,16 @@
+.loader{
+    height:100%;
+    width:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    background:#838b83ad;
+    z-index:10000;
+}
+
+.loader-spinner{
+    margin: 20% auto;
+    display:block;
+    /* background:red; */
+    /* height:100vh; */
+}
